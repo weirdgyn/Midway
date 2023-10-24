@@ -1,1 +1,1 @@
-"# Midway" 
+# Midway
